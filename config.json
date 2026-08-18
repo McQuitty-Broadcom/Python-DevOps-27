@@ -1,0 +1,8 @@
+{
+    "runJCL"                    : "CUST027.PUBLIC.JCL(NDRUNDOG)",
+    "endevorEnvironment"        : "DEV",
+    "endevorInstance"           : "ENDEVOR",
+    "endevorSubsystem"          : "DOGGOS",
+    "endevorSystem"             : "CUST027",
+    "element"                   : "DOGGOS27"
+}
